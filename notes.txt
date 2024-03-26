@@ -1,0 +1,21 @@
+ideas
+
+base facts:
+- colliders are invisible
+{
+    - growl makes the first colliding thing in every direction visible
+OR
+    - growl shoot waves that get reflected by invisible walls
+}
+
+1.
+- top down 2D map
+- automated 2D horizontal side scroller
+- bat is visible
+- walls are invisible
+- bat is movable on 2 axes
+- bat is faster than scroller
+- bat can growl to trigger sound waves that turn obstacles visible for a short time
+
+2.
+- there are gongs that create new (maybe weaker) soundwaves when they are hit by one -> chain reaction by level design
